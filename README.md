@@ -26,7 +26,7 @@ Customer-Journey-Data-Model/
 ## Dataset
 
 The dataset used for this project is the "Online Retail" dataset, which can be found on Kaggle:
-- "https://www.kaggle.com/datasets/hellbuoy/online-retail-data-set-from-uci-ml-repo"
+- "https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset"
 
 ## Installation
 
