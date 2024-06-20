@@ -89,16 +89,16 @@ Summarize the findings and discuss business implications based on the analysis.
 ## Visualizations
 
 ### Recency Distribution
-![Recency Distribution](images/Recency_Distribution.png)
+![Recency Distribution](Images/Recency_Distribution.png)
 
 ### Frequency Distribution
-![Frequency Distribution](images/Frequency_Distribution.png)
+![Frequency Distribution](Images/Frequency_Distribution.png)
 
 ### Monetary Distribution
-![Monetary Distribution](images/Monetary_Distribution.png)
+![Monetary Distribution](Images/Monetary_Distribution.png)
 
 ### RFM Segmentation
-![RFM Segmentation](images/RFM_Segmentation.png)
+![RFM Segmentation](Images/RFM_Segmentation.png)
 
 ## Conclusion
 
