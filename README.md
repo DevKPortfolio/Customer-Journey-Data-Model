@@ -7,7 +7,7 @@ This project aims to analyze and visualize the customer journey using a comprehe
 ~~~
 Customer-Journey-Data-Model/
 ├── data/
-│   └── OnlineRetail.csv
+│   └── online_retail.csv
 ├── notebooks/
 │   └── Customer_Journey_Data_Model.ipynb
 ├── images/
