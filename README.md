@@ -42,10 +42,6 @@ The dataset used for this project is the "Online Retail" dataset, which can be f
    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
    ```
 
-3. **Install the required packages:**
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
