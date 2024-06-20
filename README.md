@@ -19,7 +19,7 @@ Customer-Journey-Data-Model/
 ~~~
 - **data/**: Contains the dataset used for the project.
 - **notebooks/**: Contains the Jupyter notebook with the detailed project implementation.
-- **images/**: Contains images generated from the project for visualization.
+- **Images/**: Contains images generated from the project for visualization.
 - **README.md**: This file.
 - **requirements.txt**: List of required Python packages.
 
